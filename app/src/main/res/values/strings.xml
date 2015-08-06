@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Shop List</string>
+    <string name="mensagem_splash">Loading ...</string>
+    <string name="title_activity_compras">Shop List</string>
+    <string name="txtDescricao">Description</string>
+    <string name="tabCompras">List of Products</string>
+    <string name="tabCadastro">Register/Add</string>
+    <string name="txtMarca">Brand</string>
+    <string name="txtQuantidade">Quantity</string>
+    <string name="spnUnidadeMedida">Select unit measure</string>
+    <string name="btnSalvar">Save</string>
+    <string name="btnLimpar">Clean</string>
+
+    <!-- criando uma lista de unidades de medida -->
+    <string-array name="unidades">
+        <item>UN</item>
+        <item>KG</item>
+        <item>L</item>
+        <item>M</item>
+        <item>CX</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_usuario">User</string>
+    <string name="txtNome">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="btnMap">Map</string>
+    <string name="btnFoto">Photo</string>
+
+    <string name="mnUsuario">Register user</string>
+    <string name="mnRemover">Remove</string>
+    <string name="mnRemoverTodos">Remove all</string>
+    <string name="mnSair">Exit</string>
+    <string name="title_activity_mapa">Map</string>
+
+</resources>
